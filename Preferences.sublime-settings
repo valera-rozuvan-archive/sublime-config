@@ -1,27 +1,32 @@
+// Sublime Text 3 configuration file
+//
+// Author:       Valera Rozuvan
+// Last updated: 02 october 2013, 17:42
+
 {
-	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/iPlastic.tmTheme",
-	"ensure_newline_at_eof_on_save": true,
-	"font_options":
-	[
-		"subpixel_antialias"
-	],
-	"font_size": 13.0,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"rulers":
-	[
-		80,
-		120
-	],
-	"scroll_past_end": true,
-	"spell_check": true,
-	"tab_size": 4,
-	"trailing_spaces_highlight_color": "all",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+    "bold_folder_labels": true,
+    "color_scheme": "Packages/Color Scheme - Default/iPlastic.tmTheme",
+    "ensure_newline_at_eof_on_save": true,
+    "font_options":
+    [
+        "subpixel_antialias"
+    ],
+    "font_size": 13.0,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "rulers":
+    [
+        80,
+        120
+    ],
+    "scroll_past_end": true,
+    "spell_check": true,
+    "tab_size": 4,
+    "trailing_spaces_highlight_color": "all",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true
 }
