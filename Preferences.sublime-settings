@@ -1,7 +1,7 @@
 // Sublime Text 3 configuration file
 //
 // Author:       Valera Rozuvan
-// Last updated: 21 November 2013
+// Last updated: 25 December 2013
 
 {
     "bold_folder_labels": true,
@@ -30,5 +30,6 @@
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true,
     "always_show_minimap_viewport": true,
-    "draw_minimap_border": true
+    "draw_minimap_border": true,
+    "default_line_ending": "unix"
 }
