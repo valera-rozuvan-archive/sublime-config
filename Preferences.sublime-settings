@@ -1,25 +1,33 @@
 // Sublime Text 3 configuration file
 //
 // Author:       Valera Rozuvan
-// Last updated: 01 April 2015
+// Last updated: 12 January 2017
 
 {
   "always_show_minimap_viewport": true,
   "bold_folder_labels": true,
   "color_scheme": "Packages/Color Scheme - Default/iPlastic.tmTheme",
-  "default_line_ending": "unix",
+  "default_line_ending": "windows",
   "draw_minimap_border": true,
   "ensure_newline_at_eof_on_save": true,
-  "font_options": [
+  "experimentalDecorators": true,
+  "folder_exclude_patterns":
+  [
+    "node_modules"
+  ],
+  "font_options":
+  [
     "subpixel_antialias"
   ],
-  "font_size": 18.0,
+  "font_size": 16.0,
   "highlight_line": true,
   "highlight_modified_tabs": true,
-  "ignored_packages": [
+  "ignored_packages":
+  [
     "Vintage"
   ],
-  "rulers": [
+  "rulers":
+  [
     80,
     120
   ],
