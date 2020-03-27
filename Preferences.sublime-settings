@@ -1,7 +1,7 @@
 // Sublime Text 3 configuration file
 //
 // Author:       Valera Rozuvan
-// Last updated: 11 December 2019
+// Last updated: 27 March 2020
 
 {
   "always_show_minimap_viewport": true,
@@ -23,19 +23,21 @@
   ],
   "bold_folder_labels": true,
   "default_line_ending": "unix",
+  "detect_indentation": false,
   "dpi_scale": 1.0,
   "draw_minimap_border": true,
   "ensure_newline_at_eof_on_save": true,
   "experimentalDecorators": true,
   "folder_exclude_patterns":
   [
-    "node_modules", ".git"
+    "node_modules",
+    ".git"
   ],
+  "font_face": "Inconsolata",
   "font_options":
   [
     "subpixel_antialias"
   ],
-  "font_face": "Inconsolata",
   "font_size": 15.0,
   "highlight_line": true,
   "highlight_modified_tabs": true,
@@ -54,7 +56,6 @@
   "trailing_spaces_highlight_color": "all",
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true,
-  "detect_indentation": false,
   "use_tab_stops": true,
   "wordWrap": true
 }
